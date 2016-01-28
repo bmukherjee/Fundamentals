@@ -1,0 +1,28 @@
+{
+  "name": "simplejersey",
+  "description": "=================jersey-guice-angularjs ======================",
+  "main": "src/main/webapp/index.html",
+  "license": "Apache 2.0",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/webapp/libs",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "java",
+    "maven",
+    "angularjs"
+  ],
+  "dependencies": {
+    "angular-animate": "1.3.0-beta.14",
+    "angular-loader": "1.3.0-beta.14",
+    "angular-mocks": "1.3.0-beta.14",
+    "angular-route": "1.3.0-beta.14"
+  }
+}
